@@ -1499,7 +1499,6 @@ export const componentTypes = [
     },
     events: {},
     styles: {
-      textColor: { type: 'color', displayName: 'Text color' },
       visibility: { type: 'code', displayName: 'Visibility' },
     },
     exposedVariables: {},
@@ -1516,7 +1515,6 @@ export const componentTypes = [
       },
       events: [],
       styles: {
-        textColor: { value: '#fff' },
         visibility: { value: '{{true}}' },
       },
     },
